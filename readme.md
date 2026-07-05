@@ -4,11 +4,11 @@
 
 ### Overview
 
-This project is a Python program that performs basic text analysis on a news article. It demonstrates the use of Python functions, loops, conditionals, regular expressions, and string manipulation to extract useful information from text.
+This project is a Python program that performs basic text analysis on a news article. It demonstrates the use of Python functions, loops, conditionals, regular expressions, and string manipulation to extract useful information from text. The sample news article provided for the assessment discusses **ACME Inc.'s Apple Pie Master**, an AI-powered machine designed to automate the baking of apple pies.
 
 The program allows a user to:
 
-* Count the number of times a specific word appears in a news article.
+* Count the number of times a specific word appears in the news article.
 * Identify the most common word in the article.
 * Calculate the average length of all words.
 * Count the number of paragraphs.
